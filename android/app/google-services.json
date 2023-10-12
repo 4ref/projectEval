@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "592376941012",
+    "project_id": "projeteval-b0a02",
+    "storage_bucket": "projeteval-b0a02.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:592376941012:android:4e462ce0d4e6a552bfee41",
+        "android_client_info": {
+          "package_name": "com.app.evalproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnU_6tt34tS_B-a4yVJQ324NJpTn_d_0c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
