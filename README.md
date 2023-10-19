@@ -1,3 +1,6 @@
+# DOWNLOAD APK
+[APK FILE](./app-release.apk)
+
 # Database schema
 ![Alt text](image.png)
 
